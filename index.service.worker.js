@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790059796|6998556';
+const CACHE_VERSION = '1790060015|7741706';
 /** @type {string} */
 const CACHE_PREFIX = 'RPG2D-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
